@@ -1,4 +1,4 @@
-application: kindleear
+application: kindleear-suqishuo
 module: worker
 version: 1
 runtime: python27
